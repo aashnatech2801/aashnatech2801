@@ -1,12 +1,9 @@
 ## Hi 👋 Here is somethings about me
 
 ##<!--
-**aashnatech2801/aashnatech2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on improving my skillset 
-- 🌱 I’m currently learning full-stack web development
 - 👯 I’m basically on a quest right now.
 Looking for people who are patient enough to teach…
 and I promise I’m not just here to watch—I’ll actually try, mess up, ask questions, and try again (probably a lot).
