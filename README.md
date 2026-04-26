@@ -1,12 +1,12 @@
 ## Hi 👋 Here is somethings about me
 
-<!--
+##<!--
 **aashnatech2801/aashnatech2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on imprroving my skillset 
-- 🌱 I’m currently learning fullstack web development
+- 🔭 I’m currently working on improving my skillset 
+- 🌱 I’m currently learning full-stack web development
 - 👯 I’m basically on a quest right now.
 Looking for people who are patient enough to teach…
 and I promise I’m not just here to watch—I’ll actually try, mess up, ask questions, and try again (probably a lot).
@@ -22,3 +22,4 @@ Bonus: I overthink everything, so you’ll get very interesting questions out of
 - 😄 Pronouns: she/her
 - ⚡ Fun fact about me:I’m still figuring out life (aren’t we all?), and I’m an introvert who used to overthink everything. Now I’ve decided to treat that overthinking as my secret superpower—turns out thinking deeply can actually be pretty useful when you learn how to use it right.
 -->
+
