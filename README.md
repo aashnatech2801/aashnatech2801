@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 Here is somethings about me
 
 <!--
 **aashnatech2801/aashnatech2801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
