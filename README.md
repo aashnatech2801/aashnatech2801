@@ -1,27 +1,115 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on improving my skillset<br>👯 I’m basically on a quest right now. Looking for people who are patient enough to teach… and I promise I’m not just here to watch—I’ll actually try, mess up, ask questions, and try again (probably a lot). Think of me as: low experience high curiosity slightly chaotic learning energy I don’t need experts who expect perfection—just people who enjoy the process of figuring things out together. If you like explaining things, building random stuff, or just vibing while learning something new… we’ll probably get along 🙂 Bonus: I overthink everything, so you’ll get very interesting questions out of me.<br>😄 Pronouns: she/her<br>⚡ Fun fact about me:I’m still figuring out life (aren’t we all?), and I’m an introvert who used to overthink everything. Now I’ve decided to treat that overthinking as my secret superpower—turns out thinking deeply can actually be pretty useful when you learn how to use it right. --!>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Shreya Pandey</h1>
+<h3 align="center">Student for life</h3>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=aashnatech2801">
+    <img src="https://komarev.com/ghpvc/?username=aashnatech2801&label=Profile%20views&color=00FFFF&style=flat-square" alt="aashnatech2801's profile views" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- # 💫 About Me:
+- <br>🔭 I’m currently working on improving my skillset<br>👯 I’m basically on a quest right now. Looking for people who are patient enough to teach… and I promise I’m not just here to watch—I’ll actually try, mess up, ask questions, and try again (probably a lot). Think of me as: low experience high curiosity slightly chaotic learning energy I don’t need experts who expect perfection—just people who enjoy the process of figuring things out together. If you like explaining things, building random stuff, or just vibing while learning something new… we’ll probably get along 🙂 Bonus: I overthink everything, so you’ll get very interesting questions out of me.<br>😄 Pronouns: she/her<br>⚡ Fun fact about me:I’m still figuring out life (aren’t we all?), and I’m an introvert who used to overthink everything. Now I’ve decided to treat that overthinking as my secret superpower—turns out thinking deeply can actually be pretty useful when you learn how to use it right. --!>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/aashnatech2801?igsh=MTAxeWVtNDRibnh1ZA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreya-pandey-bb99233b5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreya.ap292@gmail.com) 
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=aashnatech2801&theme=cobalt&hide_border=true&cache_seconds=86400" alt="aashnatech2801's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=aashnatech2801&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shreya Pandey's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aashnatech2801&theme=cobalt&radius=10" alt="aashnatech2801's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aashnatech2801&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aashnatech2801&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aashnatech2801&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aashnatech2801&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Languages & Tools
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aashnatech2801&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=aashnatech2801&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
+
+</p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/aashnatech2801">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aashnatech2801&langs_count=8&layout=compact&theme=cobalt&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=aashnatech2801)
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="www.linkedin.com/in/shreya-pandey-bb99233b5">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;
+  <a href="https://x.com/aashna_pan88277">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;
+  <a href="mailto:shreya.ap292@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+## 💬 Quote
+> "A jack of all trades, Master of none,
+But often times better than a master of one"
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
