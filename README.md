@@ -10,23 +10,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- # 💫 About Me:
 - <br>🔭 I’m currently working on improving my skillset<br>👯 I’m basically on a quest right now. Looking for people who are patient enough to teach… and I promise I’m not just here to watch—I’ll actually try, mess up, ask questions, and try again (probably a lot). Think of me as: low experience high curiosity slightly chaotic learning energy I don’t need experts who expect perfection—just people who enjoy the process of figuring things out together. If you like explaining things, building random stuff, or just vibing while learning something new… we’ll probably get along 🙂 Bonus: I overthink everything, so you’ll get very interesting questions out of me.<br>😄 Pronouns: she/her<br>⚡ Fun fact about me:I’m still figuring out life (aren’t we all?), and I’m an introvert who used to overthink everything. Now I’ve decided to treat that overthinking as my secret superpower—turns out thinking deeply can actually be pretty useful when you learn how to use it right. --!>
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aashnatech2801&theme=cobalt&hide_border=true&cache_seconds=86400" alt="aashnatech2801's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=aashnatech2801&theme=cobalt&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shreya Pandey's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=aashnatech2801&theme=cobalt&radius=10" alt="aashnatech2801's Activity Graph" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -78,11 +62,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/aashnatech2801">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aashnatech2801&langs_count=8&layout=compact&theme=cobalt&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
 ![Top language](https://stats.pphat.top/languages?username=aashnatech2801)
 <br/>
